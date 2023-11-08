@@ -22,3 +22,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zacharycoulter&repo=strapi-provider-upload-b2&theme=tokyonight" />
   </a>
 </div>
+<br/>
